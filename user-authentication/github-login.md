@@ -7,7 +7,7 @@ description: Adding Github Login is just as easy.
 1. Head over to [https://github.com/settings/tokens](https://github.com/settings/tokens) . In this page, we'll configure our tokens.
 2. Click on **Generate new token (classic)**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Github Account Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Github Account Settings</p></figcaption></figure>
 
 3. Fill in all the required details.
 4. Once you get your **Client ID** and **Client Secret,** paste them in the `.env` file as shown in [environment-variables.md](../environment-variables.md "mention")

@@ -9,3 +9,5 @@
 ## 🗃️ Components
 
 * [Accordion](components/accordion.md)
+* [User Navigation](components/user-navigation.md)
+* [Popover](components/popover.md)
