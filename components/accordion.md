@@ -24,4 +24,4 @@ The FAQ component is organized as follows. You can add as many of these as per y
 </Accordion>
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>FAQ section in shipmyapp.com</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>FAQ section in shipmyapp.com</p></figcaption></figure>
