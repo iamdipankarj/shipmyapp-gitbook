@@ -16,6 +16,8 @@
 * [Call to Action](components/call-to-action.md)
 * [Modal](components/modal.md)
 * [Bottom Sheet](components/bottom-sheet.md)
+* [Banner](components/banner.md)
 * [Hero](components/hero.md)
 * [Tabs](components/tabs.md)
 * [Feature Section](components/feature-section.md)
+* [Waitlist](components/waitlist.md)
