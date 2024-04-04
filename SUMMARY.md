@@ -22,6 +22,7 @@
 * [Feature Section](components/feature-section.md)
 * [Waitlist](components/waitlist.md)
 * [Carousel](components/carousel.md)
+* [Pricing](components/pricing.md)
 
 ## ☑️ Extras
 
