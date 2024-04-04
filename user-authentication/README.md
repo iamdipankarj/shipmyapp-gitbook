@@ -4,7 +4,7 @@ description: Lets setup user authentication for your application.
 
 # 👨‍💼 User Authentication
 
-ShipMyApp supports [NextAuth](https://next-auth.js.org/) and [Supabase](https://supabase.com/) to authenticate users. You can configure it in the `/src/app/api/auth/[...nextauth]/route.ts` file.
+ShipMyApp supports [NextAuth](https://next-auth.js.org/) to authenticate users. You can configure it in the `/src/app/api/auth/[...nextauth]/route.ts` file.
 
 With NextAuth you can create two types of authentications such as Magic Links and Social Authentication using Google and Github.
 

@@ -29,3 +29,7 @@
 * [Favicon](extras/favicon.md)
 * [Theme](extras/theme.md)
 * [Typography](extras/typography.md)
+
+## 💲 Payments
+
+* [Stripe](payments/stripe.md)
