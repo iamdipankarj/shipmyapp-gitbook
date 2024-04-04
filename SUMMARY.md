@@ -21,3 +21,11 @@
 * [Tabs](components/tabs.md)
 * [Feature Section](components/feature-section.md)
 * [Waitlist](components/waitlist.md)
+* [Carousel](components/carousel.md)
+
+## ☑️ Extras
+
+* [Analytics](extras/analytics.md)
+* [Favicon](extras/favicon.md)
+* [Theme](extras/theme.md)
+* [Typography](extras/typography.md)
