@@ -3,7 +3,9 @@
 * [🚀 Getting Started](README.md)
 * [💻 Environment Variables](environment-variables.md)
 * [👨‍💼 User Authentication](user-authentication/README.md)
-  * [🔓 Github Login](user-authentication/github-login.md)
+  * [🔓 Next-Auth](user-authentication/next-auth.md)
+  * [🔐 Supabase Auth](user-authentication/supabase-auth.md)
+  * [☢️ Screens](user-authentication/screens.md)
 * [📧 Emails](emails.md)
 
 ## 🗃️ Components
@@ -34,3 +36,8 @@
 ## 💲 Payments
 
 * [Stripe](payments/stripe.md)
+
+***
+
+* [Github Repository](https://github.com/shipmyapp/shipmyapp)
+* [Support](mailto:iamdipankarj.workspace@gmail.com)

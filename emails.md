@@ -12,9 +12,11 @@ ShipMyApp uses [Resend](https://resend.com/) **for** handling emails.
 2. Once you setup your account and add a domain, you will receive an API key in their dashboard,
 3. Once you obtain your API key, paste it to `.env` file as shown in [environment-variables.md](environment-variables.md "mention")
 
+{% code title="" %}
 ```
 RESEND_API_KEY=
 ```
+{% endcode %}
 
 4. Email templates and hooks are hanldled in `src/emails` folder.
 5. Example Email to send magic links.

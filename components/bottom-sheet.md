@@ -10,4 +10,4 @@ It is suited specifically for mobile layouts. It mimics the behaviour you have p
 import { BottomSheet } from "@/components/bottom-sheet";
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
