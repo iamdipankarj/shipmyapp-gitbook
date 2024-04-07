@@ -6,6 +6,8 @@ description: ShipMyApp comes with a default favicon for the template.
 
 To replace it with your icon I suggest using the [Favicon Generator](https://realfavicongenerator.net/).
 
+<figure><img src="../.gitbook/assets/icon-colored.png" alt="" width="128"><figcaption><p>Default Favicon</p></figcaption></figure>
+
 Currently, ShipMyApp uses the following sizes for each icons. Once you generate the icons using above tool, replace them in the following directory structure. NextJS will automatically reference them in the `<head />` element.
 
 | Size    | Name                       | Location  |
