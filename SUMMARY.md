@@ -25,6 +25,7 @@
 * [Waitlist](components/waitlist.md)
 * [Carousel](components/carousel.md)
 * [Pricing](components/pricing.md)
+* [Typing Effect](components/typing-effect.md)
 
 ## ☑️ Extras
 
@@ -32,6 +33,7 @@
 * [Favicon](extras/favicon.md)
 * [Theme](extras/theme.md)
 * [Typography](extras/typography.md)
+* [Dashboard](extras/dashboard.md)
 
 ## 💲 Payments
 

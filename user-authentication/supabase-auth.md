@@ -45,7 +45,7 @@ To enable OAuth, navigate to [https://supabase.com/dashboard/project/YOUR\_SUPAB
 
 To enable OAuth providers, check the checkboxes.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Supabase Auth Providers Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Supabase Auth Providers Settings</p></figcaption></figure>
 
 ### Email
 
