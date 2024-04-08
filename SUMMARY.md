@@ -35,6 +35,11 @@
 * [Typography](extras/typography.md)
 * [Dashboard](extras/dashboard.md)
 
+## 🤖 AI (Artificial Intelligence)
+
+* [OpenAI](ai-artificial-intelligence/openai.md)
+* [Replicate](ai-artificial-intelligence/replicate.md)
+
 ## 💲 Payments
 
 * [Stripe](payments/stripe.md)
